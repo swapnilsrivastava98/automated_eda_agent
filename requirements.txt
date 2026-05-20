@@ -1,0 +1,7 @@
+langchain 
+langchain-anthropic
+python-dotenv
+pandas
+nbformat
+openpyxl
+
